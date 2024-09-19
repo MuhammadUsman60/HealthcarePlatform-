@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "669ad2509d788886086a199a"
+  },
+  "productName": "Aspirin",
+  "productDetails": "Pain reliever and fever reducer",
+  "productDescription": "Aspirin is used to reduce pain, fever, or inflammation. It is often used to treat headaches, muscle pain, toothaches, and common cold.",
+  "productImage": "https://www.aspirin.ca/sites/g/files/vrxlpx30151/files/2021-06/Aspirin-Regular-extra-strength-100ct-carton.png",
+  "price": 5,
+  "categories": "Medicines"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a199b"
+  },
+  "productName": "Ibuprofen",
+  "productDetails": "Nonsteroidal anti-inflammatory drug",
+  "productDescription": "Ibuprofen is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, back pain, arthritis, menstrual cramps, or minor injury.",
+  "productImage": "https://pics.walgreens.com/prodimg/650888/900.jpg",
+  "price": 7.49,
+  "categories": "Medicines"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a199c"
+  },
+  "productName": "Acetaminophen",
+  "productDetails": "Pain reliever and fever reducer",
+  "productDescription": "Acetaminophen is used to treat mild to moderate pain and to reduce fever. It is commonly used for headaches, muscle aches, arthritis, backaches, toothaches, colds, and fevers.",
+  "productImage": "https://www.drugwatch.com/wp-content/uploads/Acetaminophen.jpg",
+  "price": 6.99,
+  "categories": "Medicines"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a199d"
+  },
+  "productName": "Amoxicillin",
+  "productDetails": "Antibiotic",
+  "productDescription": "Amoxicillin is an antibiotic used to treat various types of infections caused by bacteria, such as tonsillitis, bronchitis, pneumonia, and infections of the ear, nose, throat, skin, or urinary tract.",
+  "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSMb4sapqFjkCwHSDpjZzViwsYZoPhtz-LA&s",
+  "price": 12.99,
+  "categories": "Medicines"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a199e"
+  },
+  "productName": "Loratadine",
+  "productDetails": "Antihistamine for allergy relief",
+  "productDescription": "Loratadine is an antihistamine that reduces the effects of natural chemical histamine in the body. It is used to treat allergy symptoms such as sneezing, itching, watery eyes, and runny nose.",
+  "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReC3AwxqjgJ5xHKB1UFEGPF9HceYZgH1LfwQ&s",
+  "price": 8.99,
+  "categories": "Medicines"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a199f"
+  },
+  "productName": "Honey",
+  "productDetails": "Raheeq Sidr Honey 125 gm Bottle honey",
+  "productDescription": "Natural honey extracted from wild sidr flowers only-125 gm.-Can be used by Suitable for children and adults.-Lowers bad cholesterol, strengthens immune system, treats infections, liver diseases, stomach pain and ulcers etc.",
+  "productImage": "https://product.dawaai.pk/800/rahrah47880_1641461094_1.webp",
+  "price": 8.99,
+  "categories": "Daily Well-being"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a0"
+  },
+  "productName": "toothpaste",
+  "productDetails": "Parodontax Extra Fresh toothpaste",
+  "productDescription": "Parodontax extra fresh toothpaste is clinically proven to reduce bleeding gums. It is a daily fluoride toothpaste that is uniquely formulated to prevent build up of bacteria along the gum line, which helps in preventing gingival inflammation. Parodontax extra fresh strengthens teeth and keeps the mouth fresh for a long",
+  "productImage": "https://product.dawaai.pk/800/gskpar45845_1643799183_2.png",
+  "price": 8.99,
+  "categories": "Daily Well-being"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a1"
+  },
+  "productName": "Hamdard Ispaghol",
+  "productDetails": "Hamdard Ispaghol Clasic 36 Sachet",
+  "productDescription": "Hamdard Ispaghol classic is a form of natural fiber made from the husk of Plantago Ovata. A low fiber diet can lead to constipation and other digestive disorders. Ispaghol classic is a natural remedy for constipation, acting as a fiber supplement to promote regularity without increasing flatulence. It has a soothing effect on the intestinal mucosa and helps in reducing weight.",
+  "productImage": "https://product.dawaai.pk/800/hamisp43302_1663760500_1.png",
+  "price": 8,
+  "categories": "Daily Well-being"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a2"
+  },
+  "productName": "Cogin tablet",
+  "productDetails": "Hamdard Ispaghol Clasic 36 Sachet",
+  "productDescription": "Ginko has been used for improving blood flow, for improving memory/concentration due to certain brain problems",
+  "productImage": "https://product.dawaai.pk/800/dawcog40971_1.png",
+  "price": 8.99,
+  "categories": "Homeopathic & Herbal Products"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a3"
+  },
+  "productName": "Fakiri Laboratories",
+  "productDetails": "Fakiri Unani Marhum 7 gm Pack paste",
+  "productDescription": "Fakiri Marhum Unani ointment is a herbal ointment for chronic ring worm, bundel khund, old itching, alopecia, dandruff and fistula. It is also found effective in the treatment of ulcer and surasis. It is composed of herbal analgesics which belongs to the category of pain. It provides relief in case of bites, stings and swellings.",
+  "productImage": "https://product.dawaai.pk/800/fakfak47612_1648111872_1.png",
+  "price": 8.99,
+  "categories": "Homeopathic & Herbal Products"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a4"
+  },
+  "productName": "Hamdard",
+  "productDetails": "Hamdard Kushta Marwareed 1 gm Powder Bottle powder",
+  "productDescription": "The Hamdard Kushta Marweed powder is used for benefiting the body in several ways. It helps treat various problems and decreases their severity. It is used for improving heart health, palpitations, tuberculosis, hemoptysis, melancholia, decreased sperm count in males, and leucorrhea in females.",
+  "productImage": "https://product.dawaai.pk/800/hamham48305_1658477188_2.webp",
+  "price": 8.99,
+  "categories": "Homeopathic & Herbal Products"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a5"
+  },
+  "productName": "Blood Glucose Reader",
+  "productDetails": "FreeStyle Libre Blood Glucose Reader 1 Pcs. Pack Pcs",
+  "productDescription": "TThe FreeStyle Libre Blood Glucose Sensor from Abbott laboratories is a medical device that is worn on the back of the upper arm to check blood glucose levels. When used with the FreeStyle Libre Glucose Reader, a hand-held reader device, it allows patients with type 1 and type 2 diabetes to check their blood glucose (sugar) levels without pricking their finger. The product is easy to use, hassle-free and gives quick results. It is clinically proven to provide highly accurate results along with being water-resistant and sensor-based. The FreeStyle Libre Blood Glucose Sensor provides patients with the opportunity to check their glucose levels by scanning through their clothing. The product is considered to be greatly useful, as it can be used anywhere, anytime. The Glucose Monitoring System consists of a handheld reader device and a sensor that is worn on the upper arm’s back. Every time the patient scans, he/she gets the current blood glucose reading, the glucose data for the past 8 hours, and a trend indicating a fall or rise in the glucose levels.",
+  "productImage": "https://product.dawaai.pk/800/abb46998_1631617592_1.png",
+  "price": 8.99,
+  "categories": "Medical Equipments"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a6"
+  },
+  "productName": "Wireless Blood Glucose Monitoring",
+  "productDetails": "Accu-Chek Instant Wireless Blood Glucose Monitoring System 1 Pack Pcs",
+  "productDescription": "With the new Accu-Chek Instant meter monitor your blood glucose levels more easily! its just as easy and fast as checking your phone messages. No setup required – sinply insert a test strip, apply a small blood sample and read your blood glucose result on the large display.",
+  "productImage": "https://product.dawaai.pk/800/accacc49449_1662362786_1.png",
+  "price": 8.99,
+  "categories": "Medical Equipments"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a7"
+  },
+  "productName": "Temperature Checker",
+  "productDetails": "BreathTech BT-T99 Contactless Infrared Thermometer 1 Pack",
+  "productDescription": "Features: Effective against virus and bacteria causing temperature Thermometer can detect the temperature of the person at distance of 2.5-5 cm, without contacting the person, thus avoiding cross-infection 1 sec detection, instant results; one button operation, simple and convenient 32 groups of data can be saved Easy to read large LCD screen; Can be used for people of all ages Accuracy",
+  "productImage": "https://m.media-amazon.com/images/I/61AEn3uZH1L._AC_SL1500_.jpg",
+  "price": 8.99,
+  "categories": "Medical Equipments"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a8"
+  },
+  "productName": "CC Even Skin Tone Cream 40 ml Pack cream",
+  "productDetails": "Pharmaceris N Neocapillaries - CC Even Skin Tone Cream 40 ml Pack cream",
+  "productDescription": "Pharmaceris N skin correction cream is recommended for all delicate skin types, especially couperose skin in need of effective protection against dangerous environmental circumstances (sun, wind, cold). Indicated for skin prone to redness and erythema (both permanent and recurrent) induced by external factors such as stress, powerful emotions, alcohol, and hot or spicy foods. CC cream is also helpful for people with dark circles, eye bags and swelling under the eye.",
+  "productImage": "https://product.dawaai.pk/800/phapha47440_1637839229_1.png",
+  "price": 8.99,
+  "categories": "Personal Care"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19a9"
+  },
+  "productName": "Pharmaceris A Opti Sensilium - Anti Wrinkle Eye Cream 15 ml Pack cream",
+  "productDetails": "Pharmaceris A Opti Sensilium - Anti Wrinkle Eye Cream 15 ml Pack cream",
+  "productDescription": "Pharmaceris A Duo Active anti-wrinkle cream has a dual effect: it visibly smoothes out wrinkles while also profoundly nourishing the worn skin around the eyes. An active compound containing a novel peptide and vitamin E stimulates collagen and elastin formation, thereby improving the skins structure and restoring firmness. A high concentration of valuable oils (babassu, rice, and passion flower oils) deeply hydrates and nourishes the skin, establishing a barrier that protects it from moisture loss and environmental aggressors. swelling under the eye.",
+  "productImage": "https://product.dawaai.pk/800/phapha47439_1637839157_1.png",
+  "price": 8.99,
+  "categories": "Personal Care"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19aa"
+  },
+  "productName": "Vaseline Healthy Bright Daily",
+  "productDetails": "Vaseline Healthy Bright Daily Brightening Lotion 200 ml Bottle lotion",
+  "productDescription": "Vaseline Brightening Lotion heals dry, damaged skin and restores its natural radiance in 2 weeks. It restores the skins healthy radiance by combining it with Vitamin B3, which is known to inhibit the production and transfer of melanin. Triple sunscreens protect your skin from future damage by blocking UVA and UVB rays. Use on a daily basis to help heal skin and make it appear healthier and brighter.",
+  "productImage": "https://product.dawaai.pk/800/univas47432_1636093765_1.png",
+  "price": 8.99,
+  "categories": "Personal Care"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19ab"
+  },
+  "productName": "Nestle NAN 1 - 400gm milk powder",
+  "productDetails": "Nestle NAN 1 - 400gm milk powder",
+  "productDescription": "Nestle NAN 1 - 400gm milk powder",
+  "productImage": "https://product.dawaai.pk/800/nesnes21718_1.png",
+  "price": 8.99,
+  "categories": "Baby Care"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19ac"
+  },
+  "productName": "Enfagrow A+ 4 800gm powder",
+  "productDetails": "Enfagrow A+ 4 800gm powder",
+  "productDescription": "Vaseline Brightening Lotion heals dry, damaged skin and restores its natural radiance in 2 weeks. It restores the skins healthy radiance by combining it with Vitamin B3, which is known to inhibit the production and transfer of melanin. Triple sunscreens protect your skin from future damage by blocking UVA and UVB rays. Use on a daily basis to help heal skin and make it appear healthier and brighter.",
+  "productImage": "https://product.dawaai.pk/800/meaenf38181_1628159064_2.png",
+  "price": 8.99,
+  "categories": "Baby Care"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19ad"
+  },
+  "productName": "Beurer Digital Steam Sterilizer - BY 76",
+  "productDetails": "Beurer Digital Steam Sterilizer - BY 76",
+  "productDescription": "Vaseline Brightening Lotion heals dry, damaged skin and restores its natural radiance in 2 weeks. It restores the skins healthy radiance by combining it with Vitamin B3, which is known to inhibit the production and transfer of melanin. Triple sunscreens protect your skin from future damage by blocking UVA and UVB rays. Use on a daily basis to help heal skin and make it appear healthier and brighter.",
+  "productImage": "https://product.dawaai.pk/800/beubeu4945_1.png",
+  "price": 8.99,
+  "categories": "Baby Care"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19ae"
+  },
+  "productName": "Innovas Kalze - C (Orange) Supplement 1 x 10s Sachets Pack powder",
+  "productDetails": "Innovas Kalze - C (Orange) Supplement 1 x 10s Sachets Pack powder",
+  "productDescription": "Vaseline Brightening Lotion heals dry, damaged skin and restores its natural radiance in 2 weeks. It restores the skins healthy radiance by combining it with Vitamin B3, which is known to inhibit the production and transfer of melanin. Triple sunscreens protect your skin from future damage by blocking UVA and UVB rays. Use on a daily basis to help heal skin and make it appear healthier and brighter.",
+  "productImage": "https://product.dawaai.pk/800/inninn47771_1640854202_1.png",
+  "price": 8.99,
+  "categories": "Lifestyle & Fitness"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19af"
+  },
+  "productName": "Fibo Syrup 120 ml Bottle liquid",
+  "productDetails": "Fibo Syrup 120 ml Bottle liquid",
+  "productDescription": "Fibo syrup is a pleasant tasting medicine used for the prevention and treatment of constipation. It can be used in all age groups.",
+  "productImage": "https://product.dawaai.pk/800/hilfib47597_1638445929_1.png",
+  "price": 8.99,
+  "categories": "Lifestyle & Fitness"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19b0"
+  },
+  "productName": "Femrose E.P 500 mg 1 x 60s Softgel Oil Capsules Bottle 500 mg soft gel capsule",
+  "productDetails": "Femrose E.P 500 mg 1 x 60s Softgel Oil Capsules Bottle 500 mg soft gel capsule",
+  "productDescription": "Nutrifactor Femrose contains primrose which supports the hormonal balance in the body, helps to relieve menstrual discomfort, helps to reduce inflammation, helps in improving the health of the cardiovascular system and even strengthens the immune system. It is a halal softgel and supports women’s health. ",
+  "productImage": "https://product.dawaai.pk/800/nutfem47425_1645099473_2.png",
+  "price": 8.99,
+  "categories": "Lifestyle & Fitness"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19b1"
+  },
+  "productName": "Hamdard Habb-e-Amber Momyaie 20s tablet",
+  "productDetails": "Hamdard Habb-e-Amber Momyaie 20s tablet",
+  "productDescription": "Vaseline Brightening Lotion heals dry, damaged skin and restores its natural radiance in 2 weeks. It restores the skins healthy radiance by combining it with Vitamin B3, which is known to inhibit the production and transfer of melanin. Triple sunscreens protect your skin from future damage by blocking UVA and UVB rays. Use on a daily basis to help heal skin and make it appear healthier and brighter.",
+  "productImage": "https://product.dawaai.pk/800/hamham43323_1658478262_2.png",
+  "price": 8.99,
+  "categories": "Organic"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19b2"
+  },
+  "productName": "Hamdard Habb-e-Nishat 20s tablet",
+  "productDetails": "Hamdard Habb-e-Nishat 20s tablet",
+  "productDescription": "Fibo syrup is a pleasant tasting medicine used for the prevention and treatment of constipation. It can be used in all age groups.",
+  "productImage": "https://product.dawaai.pk/800/hamham43324_1658478304_2.png",
+  "price": 8.99,
+  "categories": "Organic"
+},
+{
+  "_id": {
+    "$oid": "669ad2509d788886086a19b3"
+  },
+  "productName": "Hamdard Dawa-ul-Misk Motadil Dar 100 gram",
+  "productDetails": "Hamdard Dawa-ul-Misk Motadil Dar 100 gram",
+  "productDescription": "Nutrifactor Femrose contains primrose which supports the hormonal balance in the body, helps to relieve menstrual discomfort, helps to reduce inflammation, helps in improving the health of the cardiovascular system and even strengthens the immune system. It is a halal softgel and supports women’s health.",
+  "productImage": "https://product.dawaai.pk/800/hamham43333_1656578726_2.png",
+  "price": 8.99,
+  "categories": "Organic"
+}]

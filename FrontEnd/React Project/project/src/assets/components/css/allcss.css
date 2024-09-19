@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&family=M+PLUS+Rounded+1c&display=swap');
+.headerfonts {
+    font-family: "Klee One";
+    font-weight: 600;
+    color: #166aa6;
+    font-style: normal;
+  }
+  .parafonts{
+    color: #166aa6;
+    font-weight: 600;
+    font-style: normal;
+    font-family: "Klee One";
+  }
+  .fcolor{
+    font-family: "Klee One";
+    font-weight: 500;
+    font-style: normal;
+    
+  }

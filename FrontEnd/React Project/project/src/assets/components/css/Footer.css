@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&family=M+PLUS+Rounded+1c&display=swap');
+.fotertext {
+    font-family: "Klee One";
+    font-weight: 600;
+    font-style: normal;
+  }
+  .headercolor{
+    color: #166aa6;
+    font-weight: 700;
+  }
+  .footercolor{
+    font-family: "Klee One";
+    color: whitesmoke;
+    font-weight: 700;
+  }
+  
